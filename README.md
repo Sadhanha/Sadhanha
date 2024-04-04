@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Sadhanha!</h1>
 <h3 align="center">An aspiring Data Analyst and Data Scientist</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/4021/09/D3S_day5.gif?fit=800%2C600&ssl=1" alt="sadhanha" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/4021/09/D3S_day5.gif?fit=800%2C600&ssl=1](https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day5.gif?fit=800%2C600&ssl=1)" alt="sadhanha" /></a> </p>
 
 - I’m currently learning **Data Science Algorithms**
 
