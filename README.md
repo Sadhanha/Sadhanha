@@ -5,7 +5,7 @@
 
 - I’m currently learning **Data Science Algorithms**
 
-- You can reach me on **✉: sadhanhaanand6@gmail.com**
+- You can reach me on *sadhanhaanand6@gmail.com*
 
 - Fun fact **I have Abacus skills**
 
