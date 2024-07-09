@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Sadhanha!</h1>
 <h3 align="center">An aspiring Data Analyst and Data Scientist</h3>
 
-<p align="center"> <a><img width="1000" height="300" src="[https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day5.gif?fit=800%2C600&amp;ssl=1(https://camo.githubusercontent.com/72b2fa735dfd07577501047c4dfd46a33db7312bdfd352029d42b3d8b72c00fc/68747470733a2f2f69302e77702e636f6d2f6164697479612d6268617474616368617279612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f30392f4433535f646179352e6769663f6669743d3830302532433630302673736c3d31)](https://camo.githubusercontent.com/72b2fa735dfd07577501047c4dfd46a33db7312bdfd352029d42b3d8b72c00fc/68747470733a2f2f69302e77702e636f6d2f6164697479612d6268617474616368617279612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f30392f4433535f646179352e6769663f6669743d3830302532433630302673736c3d31)" class="space-bottom-small space-bottom-xs wp-post-image" alt="" decoding="async" fetchpriority="high"></a> </p>
+<p align="center"> <a><img width="1000" height="300" src="https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day5.gif?fit=800%2C600&amp;ssl=1" class="space-bottom-small space-bottom-xs wp-post-image" alt="" decoding="async" fetchpriority="high"></a> </p>
 
 - You can reach me on *sadhanha6.careers@gmail.com*
 
