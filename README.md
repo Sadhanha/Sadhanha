@@ -15,4 +15,4 @@
 
 - Fun fact **I have Abacus skills!**
 
-- You can reach me on *sadhanha6.careers@gmail.com* & on *www.linkedin.com/in/sadhanha*
+- You can reach me on *sadhanha6.careers@gmail.com* & *www.linkedin.com/in/sadhanha*
