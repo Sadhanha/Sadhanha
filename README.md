@@ -3,7 +3,7 @@
 
 <p align="center"> <a><img width="1000" height="200" src="https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day5.gif?fit=800%2C600&amp;ssl=1" class="space-bottom-small space-bottom-xs wp-post-image" alt="" decoding="async" fetchpriority="high"></a> </p>
 
-- **Skills**:  SQL, R, Python(NumPy, Pandas, Matplotlib, Scikit-learn, Tensorflow, Pytorch, Keras) 
+- **Skills**:  SQL, R, Python(NumPy, Pandas, Matplotlib, Scikit-learn, Tensorflow, Pytorch, Keras), HTML/CSS
 
 - **Tools**: MS Excel(Pivot, VLookup, Macros), Tableau, GCP 
 
