@@ -20,5 +20,5 @@ Data Engineering: ETL Pipelines, Workflow Automation, Data Cleaning and Validati
 
 Healthcare: HIPAA Compliance, EHR (EPIC), Clinical Documentation
 
-📫 sadhanha6.careers@gmail.com | 💼 linkedin.com/in/sadhanha
+📫 sadhanha6.careers@gmail.com | 💼 [linkedin.com/in/sadhanha](https://www.linkedin.com/in/sadhanha/)
 
