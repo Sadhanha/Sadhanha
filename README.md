@@ -13,8 +13,11 @@ SoapBox - An AI-powered clinical scribe agent using RAG + Claude API
 **What I work with:**
 
 AI & ML: Claude API, RAG Pipelines, LLM Agents, Hugging Face, scikit-learn, NLP, BioBERT
+
 Analytics: Python, SQL, Tableau, Looker, Exploratory Data Analysis, A/B Testing
+
 Data Engineering: ETL Pipelines, Workflow Automation, Data Cleaning and Validation
+
 Healthcare: HIPAA Compliance, EHR (EPIC), Clinical Documentation
 
 📫 sadhanha6.careers@gmail.com | 💼 linkedin.com/in/sadhanha
