@@ -8,15 +8,14 @@ My work spans data analytics and AI development - from building pipelines and da
 
 **What I'm building:**
 
-Soapbox — An AI-powered clinical scribe agent using RAG + Claude API
-Fine-tuned LLaMA-2 for a medical AI chatbot on 5,000+ Q&A pairs
+SoapBox - An AI-powered clinical scribe agent using RAG + Claude API
 
 **What I work with:**
 
 AI & ML: Claude API, RAG Pipelines, LLM Agents, Hugging Face, scikit-learn, NLP, BioBERT
 Analytics: Python, SQL, Tableau, Looker, Exploratory Data Analysis, A/B Testing
 Data Engineering: ETL Pipelines, Workflow Automation, Data Cleaning and Validation
-Healthcare: EHR, EPIC, Clinical Documentation, HIPAA Compliance
+Healthcare: HIPAA Compliance, EHR (EPIC), Clinical Documentation
 
 📫 sadhanha6.careers@gmail.com | 💼 linkedin.com/in/sadhanha
 
