@@ -12,7 +12,7 @@ SoapBox - An AI-powered clinical scribe agent using RAG + Claude API
 
 **What I work with:**
 
-AI & ML: Claude API, RAG Pipelines, LLM Agents, Hugging Face, scikit-learn, NLP, BioBERT
+AI & ML: Claude API, RAG Pipelines, LLM Agents, Hugging Face, NumPy, Pandas, Scikit-learn, Natural Language Processing
 
 Analytics: Python, SQL, Tableau, Looker, Exploratory Data Analysis, A/B Testing
 
